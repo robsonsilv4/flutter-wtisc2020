@@ -6,9 +6,9 @@ Repositório para o minicurso de Introdução a Flutter, ministrado no WTISC 202
 
 Flutter:
 
-- [Instalação no Windows](https://flutter.dev/docs/get-started/install/windows)
-- [Instalação no Linux](https://flutter.dev/docs/get-started/install/linux)
-- [Instalação no macOS](https://flutter.dev/docs/get-started/install/macos)
+- Instalação no [Windows](https://flutter.dev/docs/get-started/install/windows)
+- Instalação no [Linux](https://flutter.dev/docs/get-started/install/linux)
+- Instalação no [macOS](https://flutter.dev/docs/get-started/install/macos)
 
 Editor:
 
@@ -18,8 +18,14 @@ Editor:
 
 Plugin:
 
-- [Flutter para Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
-- [Flutter para IntelliJ IDEA e Android Studio](https://plugins.jetbrains.com/plugin/9212-flutter)
+- Flutter para [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- Flutter para [IntelliJ IDEA e Android Studio](https://plugins.jetbrains.com/plugin/9212-flutter)
+
+## Serviços utilizados:
+
+- [JSON to Dart](https://javiercbk.github.io/json_to_dart/) para serialização.
+- [Lorem Picsum](https://picsum.photos/) para consulta de fotos.
+- [REQ|RES](https://reqres.in/) para consulta de usuários.
 
 ## Licença
 
