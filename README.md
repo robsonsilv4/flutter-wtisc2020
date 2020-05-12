@@ -2,6 +2,11 @@
 
 Repositório para o minicurso de Introdução a Flutter, ministrado no WTISC 2020.
 
+## Aplicações desenvolvidas
+
+- [Fotinhas](https://github.com/robsonsilv4/fotinhas)
+- [Contatinhos]()
+
 ## Configuração do ambiente
 
 Flutter:
@@ -23,9 +28,9 @@ Plugin:
 
 ## Serviços utilizados:
 
-- [JSON to Dart](https://javiercbk.github.io/json_to_dart/) para serialização.
-- [Lorem Picsum](https://picsum.photos/) para consulta de fotos.
-- [REQ|RES](https://reqres.in/) para consulta de usuários.
+- [JSON to Dart](https://javiercbk.github.io/json_to_dart/) para serialização
+- [Lorem Picsum](https://picsum.photos/) para consulta de fotos
+- [REQ|RES](https://reqres.in/) para consulta de usuários
 
 ## Licença
 
