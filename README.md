@@ -2,10 +2,15 @@
 
 Repositório para o minicurso de Introdução a Flutter, ministrado no WTISC 2020.
 
+|                                       |                                               |                                               |
+| :------------------------------------ | :-------------------------------------------: | :-------------------------------------------: |
+| ![Fotinhas](screenshots/fotinhas.png) | ![Contatinhos](screenshots/contatinhos_1.png) | ![Contatinhos](screenshots/contatinhos_2.png) |
+|                                       |                                               |                                               |
+
 ## Aplicações desenvolvidas
 
 - [Fotinhas](https://github.com/robsonsilv4/fotinhas)
-- [Contatinhos]()
+- [Contatinhos](https://github.com/robsonsilv4/contatinhos)
 
 ## Configuração do ambiente
 
